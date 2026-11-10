@@ -1,1 +1,2 @@
 practical test exercise
+Second line added for Git practice
