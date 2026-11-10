@@ -1,2 +1,4 @@
 practical test exercise
 Second line added for Git practice
+Third line for staging practie.
+Fourth line added after staging.
